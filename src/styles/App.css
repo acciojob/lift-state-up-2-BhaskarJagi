@@ -1,1 +1,26 @@
-
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    background-color: greenyellow;
+    padding: 15px;
+    width: 500px;
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.child{
+    background-color: brown;
+    padding: 5px;
+}
+h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{
+    border: 1px solid lightblue;
+    padding: 5px;
+}
